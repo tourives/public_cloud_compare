@@ -16,3 +16,5 @@ APIExternalProducer.js
 .*/APIExternalProducer.js
 preview.json
 cp.project.properties.json
+/webapp/model/models.js
+/webapp/model/demo.json
